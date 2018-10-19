@@ -40,4 +40,6 @@ https://cernbox-manual.web.cern.ch/cernbox-manual/en/web/
 Remember to add /eos/user/j/jmao/www/.htaccess file to enable directory content:<br />
 ```Options +Indexes```
 
+Or add this file to website directory: https://github.com/CaltechPrecisionTiming/Plotting_FNAL_TB2018/blob/master/macros/index.php
+
 After this setup, you could share your plots with links easily.
